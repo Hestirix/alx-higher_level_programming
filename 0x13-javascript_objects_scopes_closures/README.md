@@ -60,4 +60,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Getinet Amare** - [@getinet121](https://github.com/getinet1221)
+* **DENNIS MHANGO** - [dmhango95@gmail.com](https://github.com/Hestirix)
