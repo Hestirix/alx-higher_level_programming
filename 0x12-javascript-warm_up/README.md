@@ -63,4 +63,4 @@
 * [x] 17. Increment object
 
 ## Developer
-- Getinet Amare [@getinet1221](https://github.com/getinet1221)
+- Dennis Garfield Mhango [@Hestirix](https://github.com/Hestirix)
